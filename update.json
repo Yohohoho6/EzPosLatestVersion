@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.0.53",
   "download_url": "https://yourdomain.com/downloads/myapp-setup.apk",
-  "force_update": true,
+  "force_update": false,
   "release_notes": "New features and bug fixes"
 }
